@@ -1,0 +1,3 @@
+function describeLocation()
+	% Your code goes here...
+end
